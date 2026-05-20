@@ -54,16 +54,16 @@ The project uses a MySQL relational database with the following tables:
 ## 📷 System Screenshots
 
 ### Login Form
-![Login](screenshots/login.png)
+![Login](screenshots/Login.png)
 
 ### Admin Dashboard
-![Admin Dashboard](screenshots/admin-dashboard.png)
+![Admin Dashboard](screenshots/Admin-dashboard.png)
 
 ### Quiz Interface
-![Quiz Interface](screenshots/quiz-interface.png)
+![Quiz Interface](screenshots/Quiz-interface.png)
 
 ### Results Module
-![Results](screenshots/results.png)
+![Results](screenshots/Results.png)
 
 ---
 
