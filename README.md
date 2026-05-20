@@ -53,17 +53,40 @@ The project uses a MySQL relational database with the following tables:
 
 ## 📷 System Screenshots
 
-### Login Form
-![Login](screenshots/Login.png)
+Below are the key interfaces of the Online Quiz System desktop application.
 
-### Admin Dashboard
-![Admin Dashboard](screenshots/Admin-dashboard.png)
+### Login & Registration Module
+![Login](./Screenshots/Login.png)
+![Registration](./Screenshots/Registration.png)
 
-### Quiz Interface
-![Quiz Interface](screenshots/Quiz-interface.png)
+#### Registration Success / Validation
+![Registration Success](./Screenshots/Registration-validation.png)
 
-### Results Module
-![Results](screenshots/Results.png)
+---
+
+### Dashboards
+
+#### Admin Dashboard
+![Admin Dashboard](./Screenshots/Admin-dashboard.png)
+
+#### Student Dashboard
+![Student Dashboard](./Screenshots/Student-dashboard.png)
+
+---
+
+### Quiz Management
+
+#### Quizzes Module
+![Quizzes](./Screenshots/Quizzes.png)
+
+#### Questions Module
+![Questions](./Screenshots/Questions.png)
+
+---
+
+### Results & Reports
+![Reports](./Screenshots/Reports.png)
+![Results](./Screenshots/Results.png)
 
 ---
 
