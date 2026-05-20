@@ -55,40 +55,67 @@ The project uses a MySQL relational database with the following tables:
 
 Below are the key interfaces of the Online Quiz System desktop application.
 
-### Login & Registration Module
-![Login](./Screenshots/Login.png)
-![Registration](./Screenshots/Registration.png)
+---
+
+### 🔐 Login & Registration Module
+
+<p align="center">
+  <img src="./Screenshots/Login.png" width="600"/>
+</p>
+
+<p align="center">
+  <img src="./Screenshots/Registration.png" width="600"/>
+</p>
 
 #### Registration Success / Validation
-![Registration Success](./Screenshots/Registration-validation.png)
+
+<p align="center">
+  <img src="./Screenshots/Registration-validation.png" width="600"/>
+</p>
 
 ---
 
-### Dashboards
+### 🖥️ Dashboards
 
 #### Admin Dashboard
-![Admin Dashboard](./Screenshots/Admin-dashboard.png)
+
+<p align="center">
+  <img src="./Screenshots/Admin-dashboard.png" width="700"/>
+</p>
 
 #### Student Dashboard
-![Student Dashboard](./Screenshots/Student-dashboard.png)
+
+<p align="center">
+  <img src="./Screenshots/Student-dashboard.png" width="700"/>
+</p>
 
 ---
 
-### Quiz Management
+### 📝 Quiz Management
 
 #### Quizzes Module
-![Quizzes](./Screenshots/Quizzes.png)
+
+<p align="center">
+  <img src="./Screenshots/Quizzes.png" width="700"/>
+</p>
 
 #### Questions Module
-![Questions](./Screenshots/Questions.png)
+
+<p align="center">
+  <img src="./Screenshots/Questions.png" width="700"/>
+</p>
 
 ---
 
-### Results & Reports
-![Reports](./Screenshots/Reports.png)
-![Results](./Screenshots/Results.png)
+### 📊 Results & Reports
 
----
+<p align="center">
+  <img src="./Screenshots/Reports.png" width="700"/>
+</p>
+
+<p align="center">
+  <img src="./Screenshots/Results.png" width="700"/>
+</p>
 
 ## ⚙️ Installation Guide
 
